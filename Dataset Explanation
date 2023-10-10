@@ -1,0 +1,15 @@
+1. 'data_mentah.xlsx'
+Description : This dataset, data_mentah.xlsx, is the result of web scraping reviews of Lawang Sewu Semarang from TripAdvisor. It contains valuable information related to the reviews, including the Name of the reviewer, Date of the review, Location of the reviewer, Rating given to the attraction, and the Review text itself.
+Purpose : The purpose of this dataset is to provide a raw collection of reviews from TripAdvisor, which can be utilized for sentiment analysis, text mining, or any other natural language processing (NLP) tasks.
+
+2. 'full_lexicon.xlsx'
+Description : The full_lexicon.xlsx dataset is a lexicon or dictionary of words and phrases that will be used for word weighting or scoring in text analysis tasks. Lexicons often contain words categorized by their sentiment or other characteristics, making them useful for sentiment analysis and similar NLP tasks.
+Purpose : This lexicon serves as a reference for assigning weights or scores to words in the text to determine their sentiment polarity.
+
+3. 'new_kamusalay.xlsx'
+Description: The new_kamusalay.xlsx dataset is a dictionary used to standardize words that have similar meanings but different spellings or forms. This can help in normalizing and simplifying text data, making it easier to analyze and compare.
+Purpose: The purpose of this dataset is to ensure that words with the same meaning but different forms are treated consistently during text analysis.
+
+4. 'Stopwords_Indonesia.xlsx'
+Description: The Stopwords_Indonesia.xlsx dataset contains a list of stopwords in the Indonesian language. Stopwords are common words (e.g., "and," "the," "in") that are typically removed from text during text analysis because they do not carry significant meaning for analysis purposes.
+Purpose: This dataset provides a reference for identifying and removing stopwords from the text data, which is a common preprocessing step in text analysis.
